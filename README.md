@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
-
 ## 🧠 About Me
 
 - 🚀 Passionate about full-stack development using the **MERN stack**
