@@ -34,7 +34,7 @@
 ## 🚀 **Projects**  
 
 ### 1. W3Schools Clone
-📌 *This is a simple clone of the W3Schools homepage created using HTML and CSS. It aims to mimic the layout and style of the popular web development learning platform as a practice project.*
+📌 *This is a simple clone of the W3Schools homepage created using HTML and CSS. It aims to mimic the layout and style of the popular web development learning platform as a practice project.*<br/>
 🔗 [Live Demo](https://iamutsab-git.github.io/W3Schools-Clone/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/W3Schools-Clone.git)  
 🛠 *Tech Used: HTML, CSS*  
 
