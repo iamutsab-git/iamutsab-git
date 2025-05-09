@@ -36,12 +36,12 @@
 ### 1. W3Schools Clone
 📌 *This is a simple clone of the W3Schools homepage created using HTML and CSS. It aims to mimic the layout and style of the popular web development learning platform as a practice project.*<br/>
 🔗 [Live Demo](https://iamutsab-git.github.io/W3Schools-Clone/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/W3Schools-Clone.git)  
-🛠 *Tech Used: HTML, CSS*  
+🛠 *Tech Used: HTML, CSS, Javascript*  
 
-### 2. **[Project Name]**  
-📌 *Brief description*  
-🔗 [Live Demo](#) | 📂 [GitHub Repo](#)  
-🛠 *Tech Used: React, Tailwind, Express, etc.*  
+### 2. Movie Munch (Netflix Clone) 
+📌 *This a clone of Netflix Homepage created using React js and Tailwind CSS. In this project, I have aimed to mimic the layout and style of popular movie streaming platform Netflix. I have used API for fetching the Movies and Shows. Through this project, I gained the concept of APIs, React js , tailwind.*<br/> 
+🔗 [Live Demo]( https://iamutsab-git.github.io/Netflix-Clone/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Netflix-Clone.git)  
+🛠 *Tech Used: React, Tailwind.*  
 
 *(Add more projects as needed)*  
 
