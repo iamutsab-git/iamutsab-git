@@ -39,7 +39,7 @@
 🛠 *Tech Used: HTML, CSS, Javascript*  
 
 ### 2. Movie Munch (Netflix Clone) 
-📌 *This a clone of Netflix Homepage created using React js and Tailwind CSS. In this project, I have aimed to mimic the layout and style of popular movie streaming platform Netflix. I have used API for fetching the Movies and Shows. Through this project, I gained the concept of APIs, React js , tailwind.*<br/> 
+📌 *This a Netflix like Homepage created using React js and Tailwind CSS. In this project, I have aimed to mimic the layout and style of popular movie streaming platform Netflix. I have used API for fetching the Movies and Shows. Through this project, I gained the concept of APIs, React js , tailwind.*<br/> 
 🔗 [Live Demo](https://iamutsab-git.github.io/Movie-Munch/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Movie-Munch.git)  
 🛠 *Tech Used: React, Tailwind.*  
 
