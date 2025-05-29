@@ -33,15 +33,20 @@
 ---
 ## 🚀 **Projects**  
 
-### 1. W3Schools Clone
+### 1. My Portfolio 
+📌 *A clean and responsive personal portfolio website built with React. It showcases my skills, projects, and contact information as a full stack web developer..*<br/> 
+🔗 [Live Demo](www.utsabgharti.com.np) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Portfolio.git)  
+🛠 *Tech Used: React, TailwindCSS.*  
+
+### 2. W3Schools Clone
 📌 *This is a simple clone of the W3Schools homepage created using HTML and CSS. It aims to mimic the layout and style of the popular web development learning platform as a practice project.*<br/>
 🔗 [Live Demo](https://iamutsab-git.github.io/W3Schools-Clone/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/W3Schools-Clone.git)  
 🛠 *Tech Used: HTML, CSS, Javascript*  
 
-### 2. Movie Munch (Netflix Clone) 
+### 3. Movie Munch (Netflix Clone) 
 📌 *This a Netflix like Homepage created using React js and Tailwind CSS. In this project, I have aimed to mimic the layout and style of popular movie streaming platform Netflix. I have used API for fetching the Movies and Shows. Through this project, I gained the concept of APIs, React js , tailwind.*<br/> 
 🔗 [Live Demo](https://iamutsab-git.github.io/Movie-Munch/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Movie-Munch.git)  
-🛠 *Tech Used: React, Tailwind.*  
+🛠 *Tech Used: React, TailwindCSS.*  
 
 *(Add more projects as needed)*  
 
@@ -60,13 +65,13 @@
   <a href="mailto:utsabgharti6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/utsab-gharti-845908350/" target="_blank">
+  <a href="www.linkedin.com/in/utsabgharti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/utsabgharti1271" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="www.utsabgharti.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
