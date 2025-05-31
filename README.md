@@ -35,7 +35,7 @@
 
 ### 1. My Portfolio 
 📌 *A clean and responsive personal portfolio website built with React. It showcases my skills, projects, and contact information as a full stack web developer..*<br/> 
-🔗 [Live Demo](www.utsabgharti.com.np) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Portfolio.git)  
+🔗 [Live Demo](https://www.utsabgharti.com.np) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Portfolio.git)  
 🛠 *Tech Used: React, TailwindCSS.*  
 
 ### 2. W3Schools Clone
