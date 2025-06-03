@@ -48,8 +48,6 @@
 🔗 [Live Demo](https://iamutsab-git.github.io/Movie-Munch/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Movie-Munch.git)  
 🛠 *Tech Used: React, TailwindCSS.*  
 
-*(Add more projects as needed)*  
-
 ---
 ## 📊 **GitHub Stats**  
 
