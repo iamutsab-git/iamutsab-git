@@ -48,6 +48,11 @@
 🔗 [Live Demo](https://iamutsab-git.github.io/Movie-Munch/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Movie-Munch.git)  
 🛠 *Tech Used: React, TailwindCSS, Nodejs,  Express, Mongodb.*  
 
+### 3. Ubay - E Commerce 
+📌 *Ubay is a MERN stack e-commerce platform featuring user authentication, product browsing, cart management, order placement, and an admin dashboard for managing users, products, and orders. It supports secure payment integration and offers a clean, responsive UI.*<br/> 
+🔗 [Live Demo]() | 📂 [GitHub Repo](https://github.com/iamutsab-git/Ubay-E-Commerce.git)  
+🛠 *Tech Used: React, TailwindCSS, Nodejs,  Express, Mongodb.*  
+
 ---
 ## 📊 **GitHub Stats**  
 
