@@ -45,7 +45,7 @@
 
 ### 3. Movie Munch - A Movie Discovery Web App 
 📌 *Developed a full-stack movie search and discovery web app using the TMDB API. Features include user authentication (signup/login), profile management, and the ability for users to save favorite movies to a personal "My List," with all data persisted in MongoDB. Responsive UI and seamless UX using React and TailwindCSS. Through this project, I gained the concept of APIs, React js , tailwind.*<br/> 
-🔗 [Live Demo](https://iamutsab-git.github.io/Movie-Munch/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Movie-Munch.git)  
+🔗 [Live Demo](https://movie-munch.onrender.com/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/MovieMunch.git)  
 🛠 *Tech Used: React, TailwindCSS, Nodejs,  Express, Mongodb.*  
 
 ### 3. Ubay - E Commerce 
