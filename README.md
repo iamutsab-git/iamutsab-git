@@ -50,7 +50,7 @@
 
 ### 3. Ubay - E Commerce 
 📌 *Ubay is a MERN stack e-commerce platform featuring user authentication, product browsing, cart management, order placement, and an admin dashboard for managing users, products, and orders. It supports secure payment integration and offers a clean, responsive UI.*<br/> 
-🔗 [Live Demo]() | 📂 [GitHub Repo](https://github.com/iamutsab-git/Ubay-E-Commerce.git)  
+🔗 [Live Demo](https://ubay-cf5q.onrender.com/) | 📂 [GitHub Repo](https://github.com/iamutsab-git/Ubay-E-Commerce.git)  
 🛠 *Tech Used: React, TailwindCSS, Nodejs,  Express, Mongodb.*  
 
 ---
