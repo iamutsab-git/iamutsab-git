@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsab Gharti</h1>
-<h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast</h3>
+<!-- <h3 align="center"></h3> -->
 
 ---
 ## 🧠 About Me
